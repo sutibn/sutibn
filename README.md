@@ -5,5 +5,5 @@
 <pre>
     ✦ 🎓 Recent Computer Science graduate from UC Davis
     ✦ ⭐ Interested in software, web, and game development
-    ✦ ⚡ Experience in high-performance computing, machine learning, and graphics
+    ✦ ⚡ Experienced in high-performance computing, machine learning, and graphics
 </pre>

@@ -4,8 +4,6 @@
 
 <pre>
     ✦ 🎓 Recent Computer Science graduate from UC Davis
-    ✦ ⭐ Interests
-        ✦ Software engineering
-        ✦ Parallel architectures
-        ✦ web/game development
+    ✦ ⭐ Interested in software, web, and game development
+    ✦ ⚡ Experience in high-performance computing, graphics, and vision
 </pre>
